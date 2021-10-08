@@ -14,3 +14,7 @@
 Для компиляции запускать ./makefile.sh
 Программа запускается ./salesman -f имя файла -m метод.
 Методы: np\_complete - полный перебор, np\_partial - муравьиный алгоритм.
+
+
+## Пример запуска
+./salesman -f input.txt -m np_complete
